@@ -1,0 +1,8 @@
+face_database.pkl
+backups/
+known_faces/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
